@@ -6,7 +6,7 @@ Overleaf is a cloud-based LaTeX editor that simplifies the process of writing, e
 ## Getting Started with Overleaf
 
 ### 1. Sign Up/Login
-To begin using Overleaf, visit the website \url{overleaf.com} and either sign up for a new account or log in if you already have one. Use your Harvard Google account, as that will provide you with access to Overleaf’s premium subscription, and free templates.
+To begin using Overleaf, visit the website \url{overleaf.com}[overleaf.com] and either sign up for a new account or log in if you already have one. Use your Harvard Google account, as that will provide you with access to Overleaf’s premium subscription, and free templates.
 
 ### 2. Creating a New Project
 These instructions are for projects that are hosted on GitHub, not those that just exist on Overleaf. In other words, we want you to use Overleaf as if it were an IDE for editing TeX files, not as a file storage suite as Google Docs may be. This will make it so that 1) you can collaborate with others who do not use overleaf, 2) you can keep a consistent repository space (GitHub) for all of your projects, and 3) your LaTeX files can live in the same repository as your data, etc.
