@@ -13,7 +13,10 @@ These instructions are for projects that are hosted on GitHub, not those that ju
 
 To create a fully new project in Overleaf (and connecting it to GitHub):
 - After logging in, you can create a new project by clicking on the "New Project" button. You'll be presented with options to start from a blank document, choose from various templates (such as research papers, presentations, CVs, etc.), or upload an existing LaTeX project.
-- Connecting to GitHub TO DO TO DO
+- You can press the Overleaf project “Menu” button on the top left (next to the home symbol). 
+- Then, under “Sync”, you can press “GitHub”. 
+- It will pop-up with “Export Project to GitHub” and ask you to enter a repository name. When you complete the fields, press “Create a GitHub repository”
+- In the future when you edit, you can commit changes with “Push Overleaf changes to GitHub"
 
 To import an already existing project from GitHub:
 - Click “Create a New Project” and then select “Import from GitHub”
