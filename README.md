@@ -3,25 +3,30 @@
 Overleaf is a cloud-based LaTeX editor that simplifies the process of writing, editing, and collaborating on LaTeX documents. While it is not a super powerful text editor, its ease of use and collaboration features make it a favorite among many users.
 
 ## Getting Started with Overleaf
+
 ### 1. Sign Up/Login
 To begin using Overleaf, visit the website overleaf.com and either sign up for a new account or log in if you already have one. Use your Harvard Google account, as that will provide you with access to Overleaf’s premium subscription, and free templates.
+
 ### 2. Creating a New Project
 These instructions are for projects that are hosted on GitHub, not those that just exist on Overleaf. In other words, we want you to use Overleaf as if it were an IDE for editing TeX files, not as a file storage suite as Google Docs may be. This will make it so that 1) you can collaborate with others who do not use overleaf, 2) you can keep a consistent repository space (GitHub) for all of your projects, and 3) your LaTeX files can live in the same repository as your data, etc.
+
 To create a fully new project in Overleaf (and connecting it to GitHub):
-After logging in, you can create a new project by clicking on the "New Project" button. You'll be presented with options to start from a blank document, choose from various templates (such as research papers, presentations, CVs, etc.), or upload an existing LaTeX project.
-* Connecting to GitHub TO DO TO DO
+- After logging in, you can create a new project by clicking on the "New Project" button. You'll be presented with options to start from a blank document, choose from various templates (such as research papers, presentations, CVs, etc.), or upload an existing LaTeX project.
+- Connecting to GitHub TO DO TO DO
+
 To import an already existing project from GitHub:
-Click “Create a New Project” and then select “Import from GitHub”
-If this is your first time trying, you will have to click on the pop-up “Link to your GitHub account”
-Sign into your GitHub account when you are redirected there.
-It will redirect you back to Overleaf, and will tell you it was successfully linked.
-You may also want to link to your Dropbox account at this screen, if you have one!
-Now, when you click “New Project”, it will show you a list of repositories that you have access to that you can import to Overleaf
-After you edit your file, and you are ready to commit it to the GitHub repository:
-You can press the Overleaf project “Menu” button on the top left (next to the home symbol). 
-Then, under “Sync”, you can press “GitHub”. 
-A pop-up will appear. You can then press “Push Overleaf changes to GitHub”
-Write your commit message & press “Commit”
+- Click “Create a New Project” and then select “Import from GitHub”
+- If this is your first time trying, you will have to click on the pop-up “Link to your GitHub account”
+- Sign into your GitHub account when you are redirected there.
+- It will redirect you back to Overleaf, and will tell you it was successfully linked.
+  - You may also want to link to your Dropbox account at this screen, if you have one!
+- Now, when you click “New Project”, it will show you a list of repositories that you have access to that you can import to Overleaf
+- After you edit your file, and you are ready to commit it to the GitHub repository:
+  - You can press the Overleaf project “Menu” button on the top left (next to the home symbol). 
+  - Then, under “Sync”, you can press “GitHub”. 
+  - A pop-up will appear. You can then press “Push Overleaf changes to GitHub”
+  - Write your commit message & press “Commit”
+    
 ### 3. Understanding the Overleaf Interface
 Once you've created a new project, you'll see the Overleaf editor interface, which consists of:
 Text Editor: The left-hand panel where you write your LaTeX code.
